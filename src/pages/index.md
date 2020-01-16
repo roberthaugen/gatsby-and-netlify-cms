@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
 title: Great websites that is the greatest
-image: /img/home-jumbotron.jpg
+image: /img/ferdig-e1571927704710.png
 heading: Get you some of that web
-subheading: you are now reading the internet
+subheading: you are now reading text on the internet
 mainpitch:
   title: Why Kaldi
   description: >
