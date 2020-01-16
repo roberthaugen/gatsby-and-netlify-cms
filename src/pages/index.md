@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great websites that is the greatest
+title: Gatsby & Netlify CMS on netlify
 image: /img/ferdig-e1571927704710.png
 heading: Get you some of that web
 subheading: you are now reading text on the internet
