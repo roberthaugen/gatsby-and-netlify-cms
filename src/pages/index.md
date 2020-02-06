@@ -1,11 +1,13 @@
 ---
 templateKey: index-page
 title: Gatsby & Netlify CMS on netlify
-image: /img/ferdig-e1571927704710.png
-heading: Get you some of that web
-subheading: you are now reading text on the internet
+image: /img/chemex.jpg
+heading: >-
+  Why  am i placed here? and not connected to the "subheading" --> address if
+  you forget part
+subheading: 'address if you forget https://gracious-lichterman-a3022e.netlify.co'
 mainpitch:
-  title: Why this thing?
+  title: Why use Netlify and Gatsby?
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
@@ -45,19 +47,21 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
+  heading: Dette er Intro - Heading
   description: >
+    Intro - Description - 
+
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
+  heading: Main - Heading - Great coffee with no compromises
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Main - Description - We hold our coffee to the highest standards from the
+    shrub to the cup. That’s why we’re meticulous and transparent about each
+    step of the coffee’s journey. We personally visit each farm to make sure the
+    conditions are optimal for the plants, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
