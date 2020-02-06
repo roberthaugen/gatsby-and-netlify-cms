@@ -5,7 +5,7 @@ image: /img/chemex.jpg
 heading: >-
   Why  am i placed here? and not connected to the "subheading" --> address if
   you forget part
-subheading: 'address if you forget https://gracious-lichterman-a3022e.netlify.co'
+subheading: 'address if you forget https://gracious-lichterman-a3022e.netlify.com/admin'
 mainpitch:
   title: Why use Netlify and Gatsby?
   description: >
